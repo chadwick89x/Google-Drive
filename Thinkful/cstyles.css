@@ -1,0 +1,58 @@
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+
+.getthere {
+    width: 60%;
+    margin: 0 auto;
+}
+
+body {
+	background-color: #000000;
+	border-style: double dashed double dashed;
+	border-width: 20px;
+	border-color: #1975FF;
+	padding-left: 15px;
+	
+}
+
+strong{
+	color: white; 
+	font-family: Trebuchet MS;
+	font-size: 1.2em;
+	}
+	
+li{
+color: #00FF00;
+font-size: 1em;
+font-family: Helvetica;
+}
+
+h1{
+    color: #1975FF; 
+	font-family: Trebuchet MS;
+	font-size: 1.5em;
+}
+
+em{
+    color: white; 
+	font-family: Trebuchet MS;
+	font-size: .9em;
+}
+
+p{
+	color: #00FF00;
+	font-size: 1em;
+	font-family: Helvetica;
+}
+
+p2{
+	color: #00FF00;
+	font-size: 1em;
+	font-family: Helvetica;
+	padding-left: 3px;
+	padding-right: 3px;
+}
